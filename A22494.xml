@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King, a proclamation for the suppressing of a booke intituled Appello Cæsarem, or, An appeale to Cæsar</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1628</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 3 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22494</idno>
+            <idno type="STC">STC 8912</idno>
+            <idno type="STC">ESTC S123843</idno>
+            <idno type="EEBO-CITATION">23670246</idno>
+            <idno type="OCLC">ocm 23670246</idno>
+            <idno type="VID">26789</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22494)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 26789)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1832:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King, a proclamation for the suppressing of a booke intituled Appello Cæsarem, or, An appeale to Cæsar</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>By Bonham Norton and Iohn Bill ...,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>M.DC.XXVIII [1628]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Giuen at Our Court at White-Hall, the seuenteenth day of Ianuary, in the fourth yeere of Our Reigne of Great Britaine, France and            Ireland."</note>
+                  <note>Reproduction of original in the Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Montagu, Richard, 1577-1641. --  Appello Caesarem.</term>
+               <term>Censorship --  England.</term>
+               <term>Proclamations --  Great Britain.</term>
+               <term>Great Britain --  Church history --  17th century.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:26789:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 4 -->
+            <head>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+               </figure> 
+               <g ref="char:leaf">❧</g> By the King.</head>
+            <head type="sub">¶ A Proclamation, for the ſuppreſsing of a Booke, intituled, <hi>Appello Caeſarem,</hi> or, <hi>An Appeale to Caeſar.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas Wee, out of Our care to conſerue and maintaine the</hi> Church, committed to Our Charge, in the vnity of true Religion, and the bond of peace, and not to ſuffer vnneceſſary diſputes, which may trouble the quiet both of Church and State, haue lately cauſed the <hi>Ar<g ref="char:EOLhyphen"/>ticles of Religion</hi> to bee reprinted, as a rule for auoyding of diuerſities of opinion, and for the eſtabliſhing of conſent in true Religion; We, conti<g ref="char:EOLhyphen"/>nuing Our deſire to compaſſe this wiſhed effect, and conſidering that the Booke written by <hi>Richard Montague,</hi> now Biſhop of <hi>Chicheſter,</hi> then but Batchelor of Diuinitie, intituled, (<hi>Appello Caeſarem,</hi> or, <hi>An Appeale to Caeſar,</hi>) and publiſhed in the yeere (1625.) was the firſt cauſe of thoſe diſ<g ref="char:EOLhyphen"/>putes and differences, which haue ſithence much troubled the quiet of the Church; haue thought it fitting to ta<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> away the occaſion by calling in the ſaid Booke: And therfore, We doe hereby will and ſtraightly command all and ſingular perſons whatſoeuer, who haue, or ſhall haue any of them in their hands or cuſtodie, that vpon paine of Our high diſpleaſure, and the conſequence thereof, they doe deliuer the ſame preſently vpon this publication, to the Lord Biſhop of the Did<g ref="char:EOLhyphen"/>ceſſe, or his Chancellor, if it bee out of the Vniuerſities, or if it be in either of the two Vniuerſities, to the Chancellor or Vice-chancellor there, whom Wee ſtraightly command to ſupperſſe the ſame; hoping thereby, that men will no more trouble themſelues with theſe vnneceſſary queſtions, the firſt occaſion being taken away: But if Wee ſhall bee deceiued in this Our expectation, and that by reading, preaching, or making Bookes, either <hi>pro</hi> or <hi>contra,</hi> concerning theſe differences, men begin anew tO diſpute, Wee ſhall take ſuch order with them, and thoſe Bookes, that they ſhall wiſh they had neuer thought vpon theſe needleſſe Controuerſies.</p>
+            <closer>
+               <dateline>Giuen at Our Court at White-Hall, <date>The ſeuenteenth day of Ianuary, in the fourth yeere of Our Reigne, of Great Britaine, France, and Ireland.</date>
+               </dateline>
+            </closer>
+            <closer>God ſaue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Bonham Norton, and Iohn Bill, Printers to the Kings moſt Excellent Maieſtie, M.DC.XXVIII.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
